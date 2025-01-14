@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: customer
+
+# logging:
+#   level:
+#     root: DEBUG
+#     org.springframework.web: DEBUG
+#     com.marguss.customer: INFO
